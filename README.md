@@ -1,5 +1,5 @@
 Hi！  i am wanyue<br>
-A Front-end infrastructure and engineering efficiency developer. Open Source Enthusiast😊 
+A Front-end infrastructure and engineering efficiency developer.😊 
 
 Hello，我是弯月，一名热爱技术的24届准前端工程师，就读于广东某211(本科)，技术栈主要是React
 
